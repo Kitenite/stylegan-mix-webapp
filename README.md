@@ -26,5 +26,4 @@ yarn build
 ---
 <p align="center">
 <img src="./powered-by-vitawind-bright.png">
-</p># stylegan-mix-webapp
-# stylegan-mix-webapp
+</p>
